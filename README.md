@@ -1,1 +1,1 @@
-"# threejs-scroll-animation-setup-for-youtube" 
+three.jsを使ってスクロール進捗に応じてアニメーションを再生するデモです
