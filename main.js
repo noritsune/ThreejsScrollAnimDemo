@@ -1,5 +1,4 @@
-import "./style.css";
-import * as THREE from "three";
+import * as THREE from "./libs/three/build/three.module.js";
 
 // Canvas
 const canvas = document.querySelector("#webgl");
